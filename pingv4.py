@@ -29,4 +29,7 @@ for caracter in mensaje:
 for idx, paquete in enumerate(paquetes, start=1):
     print(f"Enviando paquete {idx}: {paquete.summary()}")
     send(paquete)
-    time.sleep(random.randint(1, 4))
+
+    # Generar un retraso aleatorio entre 1 y 4 segundos
+    tiempo_retraso = round(1 + (3 * time.time() % 4), 2)
+    time.sleep(tiempo_retraso)
