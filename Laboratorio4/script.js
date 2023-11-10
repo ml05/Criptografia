@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.0
 // @description  no description
-// @author       ml
+// @author       MAguilera
 // @match        https://cripto.tiiny.site
 // @match        https://brown-rianon-33.tiiny.site
 // @grant        none
