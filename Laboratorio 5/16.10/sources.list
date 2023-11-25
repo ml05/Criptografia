@@ -1,0 +1,5 @@
+deb http://old-releases.ubuntu.com/ubuntu yakkety main multiverse restricted universe
+deb http://old-releases.ubuntu.com/ubuntu yakkety-backports main multiverse restricted universe
+deb http://old-releases.ubuntu.com/ubuntu yakkety-proposed main multiverse restricted universe
+deb http://old-releases.ubuntu.com/ubuntu yakkety-security main multiverse restricted universe
+deb http://old-releases.ubuntu.com/ubuntu yakkety-updates main multiverse restricted universe

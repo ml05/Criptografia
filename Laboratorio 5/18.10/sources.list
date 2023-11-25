@@ -1,0 +1,5 @@
+deb http://old-releases.ubuntu.com/ubuntu cosmic main multiverse restricted universe
+deb http://old-releases.ubuntu.com/ubuntu cosmic-backports main multiverse restricted universe
+deb http://old-releases.ubuntu.com/ubuntu cosmic-proposed main multiverse restricted universe
+deb http://old-releases.ubuntu.com/ubuntu cosmic-security main multiverse restricted universe
+deb http://old-releases.ubuntu.com/ubuntu cosmic-updates main multiverse restricted universe

@@ -1,0 +1,5 @@
+deb http://old-releases.ubuntu.com/ubuntu utopic main multiverse restricted universe
+deb http://old-releases.ubuntu.com/ubuntu utopic-backports main multiverse restricted universe
+deb http://old-releases.ubuntu.com/ubuntu utopic-proposed main multiverse restricted universe
+deb http://old-releases.ubuntu.com/ubuntu utopic-security main multiverse restricted universe
+deb http://old-releases.ubuntu.com/ubuntu utopic-updates main multiverse restricted universe
